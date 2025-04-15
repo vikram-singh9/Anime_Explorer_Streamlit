@@ -1,6 +1,14 @@
-def main():
-    print("Hello from movie-tracker!")
+import streamlit as st
 
 
-if __name__ == "__main__":
-    main()
+st.title("Movie Tracker")
+
+menue = ["add movie", "view movie"]
+
+choices = st.sidebar.selectbox("view movies", menue)
+
+if choices == "add movie":
+    st.subheader("Add your fvt movie")
+
+
+
