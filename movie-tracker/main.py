@@ -25,4 +25,8 @@ if choices == "Add movie":
         st.success("movie added")
 
 
+if choices == "View movies":
+    st.write(movie_list)
+
+
 
