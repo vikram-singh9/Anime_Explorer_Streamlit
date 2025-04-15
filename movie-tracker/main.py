@@ -9,6 +9,7 @@ choices = st.sidebar.selectbox("view movies", menue)
 
 if choices == "add movie":
     st.subheader("Add your fvt movie")
+elif
 
 
 
