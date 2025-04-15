@@ -22,7 +22,7 @@ if choices == "Add movie":
     
     if st.button("Add movie"):
         movie_list.append({"title": title, "genr": genr , "status":status})
-        st.succes("Add a movie")
+        st.success("movie added")
 
 
 
