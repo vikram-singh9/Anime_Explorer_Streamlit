@@ -21,7 +21,8 @@ if choices == "Add movie":
     status = st.selectbox("status",["watched ", "plan to watch", "donot want to watch"])
     
     if st.button("Add movie"):
-    movie_list.append({"title": title, "genr": genr , "status":status})
+        movie_list.append({"title": title, "genr": genr , "status":status})
+        st.succes("")
 
 
 
