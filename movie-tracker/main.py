@@ -19,6 +19,8 @@ if choices == "Add movie":
     title = st.text_input("Enter your title")
     genr = st.text_input("Enter the genr")
     status = st.selectbox("status",["watched ", "plan to watch", "donot want to watch"])
+    
+    if st.button("Add movie"):
     movie_list.append({"title": title, "genr": genr , "status":status})
 
 
