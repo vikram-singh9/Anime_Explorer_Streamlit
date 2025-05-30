@@ -2,7 +2,7 @@
 
 # 🌸 Anime Explorer - Streamlit App
 
-Welcome to **Anime Explorer**, a sleek and powerful Streamlit web app that allows users to explore their favorite anime using a public Anime API (like [Jikan API](https://jikan.moe/) or any other). Browse anime details, search by title, view posters, and get inspired by Japanese animation—all in a simple and elegant interface.
+Welcome to **Anime Explorer**, a sleek and powerful Streamlit web app that allows users to explore their favorite anime using a public Anime API). Browse anime details, search by title, view posters, and get inspired by Japanese animation—all in a simple and elegant interface.
 
 ## 🔍 Features
 
@@ -16,17 +16,17 @@ Welcome to **Anime Explorer**, a sleek and powerful Streamlit web app that allow
 
 - [Python](https://www.python.org/)
 - [Streamlit](https://streamlit.io/)
-- [Anime API](https://jikan.moe/) or similar
+- [Anime API](animeapi)
 - [Requests](https://docs.python-requests.org/en/latest/)
 
-## 📸 App Preview
+## 📸 Give a star to this anime app if you are a true anime lover!
 
-![App Screenshot](https://your-image-url.com/screenshot.png)
+![App Screenshot](https://images.unsplash.com/photo-1677143051370-da2e52baa771?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDQ5fHx8ZW58MHx8fHx8)
 
 ## 🛠️ Installation
 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/anime-explorer.git
-   cd anime-explorer
+   git clone https://github.com/vikram-singh9/Anime_Explorer_Streamlit.git
+   
